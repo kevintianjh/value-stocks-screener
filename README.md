@@ -15,7 +15,7 @@ US stocks screener that filter out companies with at least 5 years of consistent
 **Demo**: <br/><br/>
 ![screen1](https://github.com/kevintianjh/value-stocks-screener/assets/121169051/fdf1d808-7bdd-4b7a-944d-2c13af95b6cc)
 <br/><br/>
-1) The process of downloading EPS data for 1000s of stocks can take a while, the app will save the downloaded data in a temporary JSON file for any incomplete run
+1) The process of downloading EPS data for 1000s of stocks can take a while, the app will save the downloaded data in a temporary JSON file (https://github.com/kevintianjh/value-stocks-screener/blob/main/output/temp.json) for any incomplete run
 <br/><br/>
 ![screen4](https://github.com/kevintianjh/value-stocks-screener/assets/121169051/bd287419-db0e-4821-9c4f-2c068d0d192a)
 <br/><br/>
@@ -28,7 +28,7 @@ US stocks screener that filter out companies with at least 5 years of consistent
 <br/><br/>
 ![screen5](https://github.com/kevintianjh/value-stocks-screener/assets/121169051/fe3b98a7-823f-4035-80c3-0faa718a7fc9)
 <br/><br/>
-4) The text file shows the scan results sorted by sector, price/intrinsic (value with equal or less than 100% will be rank 1, 100% to 110% will be rank 2, anything above will be rank 3) and growth rate
+4) The text file (https://github.com/kevintianjh/value-stocks-screener/blob/main/output/result.txt) shows the scan results sorted by sector, price/intrinsic (value with equal or less than 100% will be rank 1, 100% to 110% will be rank 2, anything above will be rank 3) and growth rate
 
 
 
